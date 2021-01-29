@@ -1,0 +1,6 @@
+[submodule "android-library-core"]
+	path = android-library-core
+	url = git@github.com:wttchresp/android-library-core
+[submodule "android-library-camera"]
+	path = android-library-camera
+	url = git@github.com:wttchresp/android-library-camera
