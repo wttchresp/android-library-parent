@@ -1,3 +1,4 @@
+include(":android-library-viewbinding")
 include(":android-library-core")
 include(":android-library-camera")
 include(":app")
