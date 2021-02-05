@@ -4,3 +4,6 @@
 [submodule "android-library-camera"]
 	path = android-library-camera
 	url = git@github.com:wttchresp/android-library-camera
+[submodule "android-library-viewbinding"]
+	path = android-library-viewbinding
+	url = ./android-library-viewbinding/
